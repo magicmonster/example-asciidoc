@@ -1,0 +1,7 @@
+= Example Asciidoc Text
+
+http://magicmonster.com/[magicmonster] is testing out http://www.methods.co.nz/asciidoc/[asciidoc].
+https://github.com/asciidoctor/asciidoctor
+http://asciidoctor.org/
+https://github.com/asciidoctor/asciidoctorj
+http://asciidoctor.org/docs/asciidoctor-maven-plugin/
